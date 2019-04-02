@@ -6,5 +6,5 @@
 3.Shubham Singal<br></br>
 4.Chirag Gandhi
 
-# All the participants are from Bharati Vidyapeeth's College of Engineering,Paschim Vihar,New Delhi.
+### All the participants are from Bharati Vidyapeeth's College of Engineering,Paschim Vihar,New Delhi.
 
